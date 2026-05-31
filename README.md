@@ -63,11 +63,23 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
 
 ## 🏆 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-> ☁️ **AWS Certified Cloud Practitioner** — Foundational knowledge of AWS cloud services, infrastructure, security, and pricing models.
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner Badge"/>
+    </td>
+    <td>
+      <strong>AWS Certified Cloud Practitioner</strong><br/>
+      🏢 Amazon Web Services (AWS)<br/>
+      👤 Krishna Agarwal<br/>
+      📅 Issued: April 6, 2026 &nbsp;|&nbsp; Expires: April 6, 2029<br/>
+      🔑 Credential ID: <code>80c70b176fff4d85b5826844d0a55774</code><br/>
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/80c70b176fff4d85b5826844d0a55774">
+        <img src="https://img.shields.io/badge/Verify_Credential-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +103,7 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
 | Platform | Rating / Status |
 |----------|-----------------|
 | 🟢 **CodeChef** | ⭐ 1 Star — Max Rating **1246** |
-| 🟡 **LeetCode** | Solved 100+ problems on DSA|
+| 🟡 **LeetCode** | Active Problem Solver |
 | 🔵 **Codeforces** | Active Participant |
 | 🟠 **GeeksForGeeks** | Regular Practice |
 
