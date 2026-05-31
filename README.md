@@ -5,8 +5,6 @@
 ### 🎓 B.Tech CSE-IT | KIET Group of Institutions
 ### 🚀 DSA Enthusiast • Backend Developer • Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+%F0%9F%8F%86;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;DSA+Enthusiast+%F0%9F%92%AA;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
 </div>
 
 ---
