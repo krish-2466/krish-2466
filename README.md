@@ -158,15 +158,7 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krish-2466/krish-2466/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> 🔧 *To enable the snake animation, set up the [GitHub Actions Snake workflow](https://github.com/Platane/snk).*
-
----
 
 ## 🎯 2025 Goals
 
