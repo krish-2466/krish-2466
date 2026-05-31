@@ -91,7 +91,7 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
 | Platform | Rating / Status |
 |----------|-----------------|
 | 🟢 **CodeChef** | ⭐ 1 Star — Max Rating **1246** |
-| 🟡 **LeetCode** | Active Problem Solver |
+| 🟡 **LeetCode** | Solved 100+ problems on DSA|
 | 🔵 **Codeforces** | Active Participant |
 | 🟠 **GeeksForGeeks** | Regular Practice |
 
