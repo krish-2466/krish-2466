@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Krishna Agarwal**
 
-### 🎓 B.Tech CSE-IT | KIET Group of Institutions
+### 🎓 B.Tech CSIT | KIET Group of Institutions
 ### 🚀 DSA Enthusiast • Backend Developer • Competitive Programmer
 
 </div>
