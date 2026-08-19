@@ -165,21 +165,6 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-2466&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
-
----
-
-
-
-## 🎯 2025 Goals
-
-- [ ] 🏆 Reach **3★ on CodeChef** (1400+ rating)
-- [ ] 💻 Solve **500+ DSA problems** across platforms
-- [ ] 🌐 Build and deploy a **full-stack Spring Boot project** on AWS
-- [ ] 📘 Complete **AWS Solutions Architect** certification
-- [ ] 🤖 Build a complete **ML project end-to-end**
-
----
-
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."*
