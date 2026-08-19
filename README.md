@@ -149,22 +149,6 @@ Hi! I'm **Krishna Agarwal**, a passionate 3rd year B.Tech student in **Computer 
   </a>
 </p>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krish-2466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-2466&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-2466&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."*
